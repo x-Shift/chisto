@@ -1,0 +1,25 @@
+{
+  "name": "simple-telegram-ai-bot",
+  "version": "1.0.0",
+  "description": "Oddiy Telegram AI Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.63.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "ai",
+    "uzbek"
+  ],
+  "author": "Developer",
+  "license": "MIT"
+}
